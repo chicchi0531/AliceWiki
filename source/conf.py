@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'BrutalAlice Wiki'
+project = 'BrutalAlice Document'
 copyright = '2019, KoromoSoft'
 author = 'chicchi'
 
