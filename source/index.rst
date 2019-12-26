@@ -11,6 +11,13 @@ Welcome to BrutalAlice Wiki's documentation!
     :caption: 世界観:
 
     world/history
+    world/race
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: 国:
+    
+    country/witch
 
 
 Indices and tables
