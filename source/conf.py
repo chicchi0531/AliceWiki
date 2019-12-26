@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'KSScript'
+project = 'BrutalAlice Wiki'
 copyright = '2019, KoromoSoft'
 author = 'chicchi'
 
