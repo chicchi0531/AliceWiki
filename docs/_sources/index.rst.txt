@@ -11,6 +11,7 @@
 
     world/history
     world/race
+    world/system
     
 .. toctree::
     :maxdepth: 2
