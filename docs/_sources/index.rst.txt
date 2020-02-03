@@ -19,6 +19,11 @@
 
     country/witch
 
+.. toctree::
+    :maxdepth: 2
+    :caption: キャラクター:
+
+    character/character_top
 
 Indices and tables
 ==================
